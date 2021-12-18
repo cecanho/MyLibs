@@ -24,5 +24,8 @@ A maior parte das pessoas tem acesso a livros, muitos compram livros, seja para 
 <code>  `localizacao` varchar(30)</code></br>
 <code>) ENGINE=InnoDB DEFAULT CHARSET=latin1;</code>
 
-<h3>Vídeo explicativo:</h3>
+<h3>Sobre</h3>
+Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
+<h3>Vídeo de apoio/apresentação</h3>
 <a href="https://www.youtube.com/user/crispdg">Prof. Cristiano José Cecanho</a>
+
